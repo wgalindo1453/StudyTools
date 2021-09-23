@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<apps>
+<application id="com.anysoftkeyboard.addon">
+        
+        <id>com.anysoftkeyboard.addon</id>
+        
+        <added>2017-07-28</added>
+        
+        <lastupdated>2017-07-28</lastupdated>
+        
+        <name>AnySoftKeyboard: Czech</name>
+        
+        <summary/>
+        
+        <icon>org.herrlado.ask.languagepack.czech.258.png</icon>
+        
+        <desc>&lt;p&gt;Czech keyboard layout with dictionary.&lt;/p&gt;&lt;p&gt;Dictionary comes from AOSP. The source code is in another branch to the default.&lt;/p&gt;&lt;p&gt;Install &lt;a href="fdroid.app:com.menny.android.anysoftkeyboard"&gt;AnySoftKeyboard&lt;/a&gt; first, then select the desired layout from AnySoftKeyboard’s Settings-&amp;gt;Keyboards menu.&lt;/p&gt;</desc>
+        
+        <license>Apache-2.0</license>
+        
+        <categories>Writing</categories>
+
+        <category>Writing</category>
+        
+        <web/>
+        
+        <source>https://github.com/AnySoftKeyboard/LanguagePack/tree/Czech</source>
+        
+        <tracker>https://github.com/AnySoftKeyboard/LanguagePack/issues</tracker>
+        
+        <author>AnySoftKeyboard</author>
+        
+        <email>ask@evendanan.net</email>
+        
+        <donate>https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=KDYBGNUNMMN94&amp;lc=US&amp;item_name=AnySoftKeyboard</donate>
+        
+        <marketversion>4.0.2234</marketversion>
+        
+        <marketvercode>2234</marketvercode>
+        
+        <package>
+            
+            <version>2.0.0</version>
+            
+            <versioncode>258</versioncode>
+            
+            <apkname>org.herrlado.ask.languagepack.czech_258.apk</apkname>
+            
+            <srcname>org.herrlado.ask.languagepack.czech_258_src.tar.gz</srcname>
+            
+            <hash type="sha256">f796620a8936e54b1948b8414ea221c0194bce2dd4708386637058c389d33647</hash>
+            
+            <size>1200233</size>
+            
+            <sdkver>7</sdkver>
+            
+            <targetSdkVersion>26</targetSdkVersion>
+            
+            <added>2017-07-28</added>
+            
+            <sig>091fd24c905e130614d8b2aa36ac5449</sig>
+            
+        </package>
+        
+        <stars>109</stars>
+        
+        <appSourceFolder>base/src</appSourceFolder>
+        <repoIsGradleType>true</repoIsGradleType>
+        <repoName>repository-81</repoName>
+    <appBuildGradle>base/build.gradle</appBuildGradle>
+<gradlewFileName>gradlew</gradlewFileName>
+<buildFile>/home/rellik/Desktop/repodest/repository-81/base/build.gradle</buildFile>
+</application>
+</apps>

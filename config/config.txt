@@ -1,0 +1,22 @@
+[General Configs]
+github_username = admin
+github_password = admin
+repo_clone_timeout = 20
+java_bin_full_path =/usr/bin/java
+rm_bin_full_path =/usr/bin/cloc
+git_bin_full_path = /usr/bin/git
+cloc_bin_full_path = /home/rellik/Desktop/code/StudyTools/scripts/mock_dataset/run_cloc.py
+ktlint_bin_full_path = /snap/ktlint
+python_bin_full_path = /usr/bin/python3.8
+python_github_script_full_path = /home/rellik/Desktop/AndroidResearch/code/code/StudyTools/scripts/mock_dataset/check_github_info.py
+python_google_play_script_full_path = /home/rellik/Desktop/AndroidResearch/code/code/StudyTools/scripts/mock_dataset/check_google_play_info.py
+python_check_commits_script_full_path = /home/rellik/Desktop/AndroidResearch/code/code/StudyTools/scripts/mock_dataset/check_commits.py
+python_check_commits_with_hash_script_full_path = /home/rellik/Desktop/AndroidResearch/code/code/StudyTools/scripts/mock_dataset/check_commits_with_hash.py
+python_check_commits_script_for_file_full_path = /home/rellik/Desktop/AndroidResearch/code/code/StudyTools/scripts/mock_dataset/check_commits_for_file.py
+python_run_ktlint_script_full_path = /home/rellik/Desktop/AndroidResearch/code/code/StudyTools/scripts/mock_dataset/run_ktlint.py
+python_run_cloc_script_full_path = /home/rellik/Desktop/AndroidResearch/code/code/StudyTools/scripts/mock_dataset/run_cloc.py
+ktlint_rules_jar_full_path = /home/rellik/Desktop/AndroidResearch/code/code/KtlintRules/build/libs/KtlintRules-1.0-SNAPSHOT.jar
+config_full_path = /home/rellik/Desktop/AndroidResearch/code/code/StudyTools/config/config.txt
+analysis_jar_full_path =
+repo_dest_full_path =/home/rellik/Desktop/repodest
+#repo_dest_full_path =
